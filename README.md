@@ -1,7 +1,3 @@
-# setfuel
-A simple "setfuel" command for LegacyFuel - ESX.
-
-
 
 # Description
 
@@ -9,12 +5,12 @@ A simple /setfuel command for LegacyFuel ESX plugin.
 
 # Usage:
 
-/setfuel [player's id] [value; 0-100]\n
+/setfuel [player's id] [value; 0-100]
 E. g.: /setfuel 26 100
 
 # Requirements
 
-es_extended\n
+es_extended
 k5_notify - optional (default)
 
 # Configuration
