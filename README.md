@@ -17,7 +17,7 @@ k5_notify - optional (default)
 
 # Configuration
 
-For notifications I used k5_notify, but inside of client.lua you can delete lines 7 and 10, and uncomment lines 6 and 9; in server.lua you can delete lines 15 and 19, and uncomment lines 14-18 to use the default "chat" messages.
+For notifications I used k5_notify, but inside of client.lua you can delete lines 8, 11, 16 and 19 and uncomment lines 7, 10, 15 and 18; in server.lua you can delete lines 15 and 19, and uncomment lines 14-18 to use the default "chat" messages.
 
 # Author: Cl9s4bl3
 
